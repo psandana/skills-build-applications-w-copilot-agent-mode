@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-2b$%@goj0si27+j$v!35zb*odzx@(g7&hs@^xnl1llk3=99lj&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['bookish-space-guide-4j67vrxqwpf5xg5-8000.app.github.dev', 'localhost']
 
 
 # Application definition
